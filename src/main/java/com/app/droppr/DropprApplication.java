@@ -1,0 +1,13 @@
+package com.app.droppr;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DropprApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DropprApplication.class, args);
+	}
+
+}
